@@ -1,0 +1,7 @@
+C:\Users\abhinav_bhatt\source\repos\FactorialByRecurssion\bin\Debug\FactorialByRecurssion.exe.config
+C:\Users\abhinav_bhatt\source\repos\FactorialByRecurssion\bin\Debug\FactorialByRecurssion.exe
+C:\Users\abhinav_bhatt\source\repos\FactorialByRecurssion\bin\Debug\FactorialByRecurssion.pdb
+C:\Users\abhinav_bhatt\source\repos\FactorialByRecurssion\obj\Debug\FactorialByRecurssion.csprojAssemblyReference.cache
+C:\Users\abhinav_bhatt\source\repos\FactorialByRecurssion\obj\Debug\FactorialByRecurssion.csproj.CoreCompileInputs.cache
+C:\Users\abhinav_bhatt\source\repos\FactorialByRecurssion\obj\Debug\FactorialByRecurssion.exe
+C:\Users\abhinav_bhatt\source\repos\FactorialByRecurssion\obj\Debug\FactorialByRecurssion.pdb
