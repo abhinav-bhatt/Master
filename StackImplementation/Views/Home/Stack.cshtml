@@ -1,0 +1,53 @@
+﻿@{
+    ViewBag.Title = "Stack Implementation";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Stack Implementation</h2>
+
+<script src="~/Scripts/jquery-3.3.1.min.js"></script>
+<script src="~/Scripts/Stack.js"></script>
+
+<div class="container">
+    <div class="row">
+        <div class="col-sm-6">
+            <div class="form-group">
+                <input type="text" class="form-control" id="stackSize">
+            </div>
+        </div>
+        <div class="col-sm-6">
+            <input type="button" value="Create Stack" id="btnstackCreate" class="btn btn-info" />
+
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-sm-6">
+            <div class="form-group">
+                <input type="text" class="form-control" id="txtPush">
+            </div>
+        </div>
+        <div class="col-sm-6">
+            <input type="button" value="Push" id="btnPush" class="btn btn-info" />
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-sm-6" id="stackViewRow">
+            <div class="col-sm-2"> </div>
+            <div class="col-sm-2" id="stackView"> </div>
+            <div class="col-sm-2"> </div>
+        </div>
+        <div class="col-sm-6">
+            <input type="button" value="Pop" id="btnPop" class="btn btn-info" />
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-sm-6">
+        </div>
+        <div class="col-sm-6">
+            <input type="button" value="Delete Stack" id="btnDelete" class="btn btn-info" />
+        </div>
+    </div>
+</div>
